@@ -360,3 +360,5 @@ https://sa-east-1.console.aws.amazon.com/console/home?region=sa-east-1#
 https://edition.cnn.com/
 https://slate.com/
 http://caselaw.findlaw.com/court/us-supreme-court
+
+https://app.chime.aws
