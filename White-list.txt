@@ -332,27 +332,31 @@ c1.microsoft.com
 www.microsoft.com
 myanalytics-gcc.microsoft.com
 admin.onedrive.com
-页面
-弗吉尼亚北部：https://console.aws.amazon.com/console/home?region=us-east-1
-俄亥俄州：https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2
-加利福尼亚北部：https://us-west-1.console.aws.amazon.com/console/home?region=us-west-1#
-俄勒冈州：https://us-west-2.console.aws.amazon.com/console/home?region=us-west-2#
-非洲（开普敦）：https://console.aws.amazon.com/billing/home?#/account?AWS-Regions    //这个会跳到global
 
-亚太地区（香港）：https://ap-east-1.console.aws.amazon.com/console/home?region=ap-east-1   
-亚太地区（孟买）：https://ap-south-1.console.aws.amazon.com/console/home?region=ap-south-1#
-亚太地区（首尔）：https://ap-northeast-2.console.aws.amazon.com/console/home?region=ap-northeast-2
-亚太地区（新加坡）：https://ap-southeast-1.console.aws.amazon.com/console/home?region=ap-southeast-1
-亚太地区（悉尼）：https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2
-亚太地区（东京）：https://ap-northeast-1.console.aws.amazon.com/console/home?region=ap-northeast-1#
+https://console.aws.amazon.com/console/home?region=us-east-1
+https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2
+https://us-west-1.console.aws.amazon.com/console/home?region=us-west-1#
+https://us-west-2.console.aws.amazon.com/console/home?region=us-west-2#
+https://console.aws.amazon.com/billing/home?#/account?AWS-Regions    //这个会跳到global
 
-加拿大（中部）：https://ca-central-1.console.aws.amazon.com/console/home?region=ca-central-1#
-欧洲（法兰克福）：https://eu-central-1.console.aws.amazon.com/console/home?region=eu-central-1#
-欧洲（爱尔兰）：https://eu-west-1.console.aws.amazon.com/console/home?region=eu-west-1
-欧洲（伦敦）：https://eu-west-2.console.aws.amazon.com/console/home?region=eu-west-2#
-欧洲（米兰）：https://eu-south-1.console.aws.amazon.com/console/home?region=eu-south-1#  //这个会跳到global
-欧洲（巴黎）：https://eu-west-3.console.aws.amazon.com/console/home?region=eu-west-3
-欧洲（斯德哥尔摩）：https://eu-north-1.console.aws.amazon.com/console/home?region=eu-north-1#
+https://ap-east-1.console.aws.amazon.com/console/home?region=ap-east-1   
+https://ap-south-1.console.aws.amazon.com/console/home?region=ap-south-1#
+https://ap-northeast-2.console.aws.amazon.com/console/home?region=ap-northeast-2
+https://ap-southeast-1.console.aws.amazon.com/console/home?region=ap-southeast-1
+https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2
+https://ap-northeast-1.console.aws.amazon.com/console/home?region=ap-northeast-1#
 
-中东（巴林）：https://me-south-1.console.aws.amazon.com/console/home?region=me-south-1#  //这个会跳到global
-南美（圣保罗）：https://sa-east-1.console.aws.amazon.com/console/home?region=sa-east-1#
+https://ca-central-1.console.aws.amazon.com/console/home?region=ca-central-1#
+https://eu-central-1.console.aws.amazon.com/console/home?region=eu-central-1#
+https://eu-west-1.console.aws.amazon.com/console/home?region=eu-west-1
+https://eu-west-2.console.aws.amazon.com/console/home?region=eu-west-2#
+https://eu-south-1.console.aws.amazon.com/console/home?region=eu-south-1#  //这个会跳到global
+https://eu-west-3.console.aws.amazon.com/console/home?region=eu-west-3
+https://eu-north-1.console.aws.amazon.com/console/home?region=eu-north-1#
+
+https://me-south-1.console.aws.amazon.com/console/home?region=me-south-1#  //这个会跳到global
+https://sa-east-1.console.aws.amazon.com/console/home?region=sa-east-1#
+
+https://edition.cnn.com/
+https://slate.com/
+http://caselaw.findlaw.com/court/us-supreme-court
